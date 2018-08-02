@@ -1,0 +1,41 @@
+[33mcommit babef0840e4572b8221b9c36b77180f4cf487d96[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mAdam/master[m[33m)[m
+Merge: 71a4de9 6cd2a5e
+Author: LESNAR9 <34945139+Lesnar9@users.noreply.github.com>
+Date:   Thu Aug 2 19:21:22 2018 +0530
+
+    Merge branch 'development'
+
+[33mcommit 6cd2a5e2169f57b36ef8a84e1ab8b5ef4d2aa736[m
+Author: LESNAR9 <34945139+Lesnar9@users.noreply.github.com>
+Date:   Thu Aug 2 18:59:48 2018 +0530
+
+    Revert "Remove the import error in jupyter"
+    
+    This reverts commit 5331b3c8baa2ee1c32c0d2a1866dc5f467c6e8da.
+
+[33mcommit 71a4de9f74a711885b89c482c87f48967c3dd16c[m
+Merge: d187d10 5331b3c
+Author: Ashutosh Singh <ashutoshsingh9798.as@gmail.com>
+Date:   Thu Aug 2 18:40:46 2018 +0530
+
+    Merge pull request #1 from Lesnar9/development
+    
+    Remove the import error in jupyter
+
+[33mcommit 5331b3c8baa2ee1c32c0d2a1866dc5f467c6e8da[m
+Author: Ashutosh Singh <ashutoshsingh9798.as@gmail.com>
+Date:   Thu Aug 2 18:38:22 2018 +0530
+
+    Remove the import error in jupyter
+
+[33mcommit d187d101e1eaae4bfdfa111aeb7c5e6738985600[m
+Author: LESNAR9 <34945139+Lesnar9@users.noreply.github.com>
+Date:   Thu Aug 2 18:30:45 2018 +0530
+
+    added images, gif and data
+
+[33mcommit beb76eb377c476b9ae90697523cd8167d1e82979[m
+Author: LESNAR9 <34945139+Lesnar9@users.noreply.github.com>
+Date:   Thu Aug 2 18:02:36 2018 +0530
+
+    initial commit
